@@ -1,45 +1,35 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br>
 <head>
+	
 	<meta charset="utf-8">
 	<title>Pontos Turísticos do Bairro Humaitá</title>
 </head>
 <body>
+	<p style="text-align:justify">
 	<img src="humaita.jpeg">
-	<h1>Pontos Turísticos no Humaitá</h1>
-	<h2>Bairro Humaitá!</h2>
-	<p>
-		
-
-
-
-	<h1>Pontos Turísticos no Humaitá</h1>
-	<h2>Bairro Humaitá!</h2>
-	<p>
+	<h1 style="text-align:center">Pontos Turísticos no Humaitá</h1>
+	<h2 style="text-align:center">Bairro Humaitá!</h2>
+	
 		Humaitá é um bairro nobre, de caráter residencial e próximo a diversos bares, restaurantes, mercados, padarias, locadoras e variado comércio. Por estar 
 
 		próximo ao Túnel Rebouças, e fazer divisa com os bairros de Botafogo, Lagoa e Jardim Botânico, proporciona fácil deslocamento para os principais pontos 
 
-		da cidade.
-	</p>
-	<p>
+		da cidade.</p>
 		
-	</p>
+	<p style="text-align:justify">
 	<img src="jardimbotanico.jpeg">
-	<h2>Jardim Botânico</h2>
-	<p>	O Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, ou apenas Jardim Botânico do Rio de Janeiro, é um instituto de pesquisas e jardim botânico  
+	<h2 style="text-align:center">Bairro Jardim Botânico</h2>
+	O Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, ou apenas Jardim Botânico do Rio de Janeiro, é um instituto de pesquisas e jardim botânico  
 
-                localizado no bairro do Jardim Botânico, na zona sul do município do Rio de Janeiro, no Brasil.
+    localizado no bairro do Jardim Botânico, na zona sul do município do Rio de Janeiro, no Brasil.</p>
 		
-	</p>
-	<p>
 		
-	</p>
+	<p style="text-align:justify">
     <img src="cristoredentor">
-	<h2>O Cristo Redentor</h2>
-	<p>
+	<h2 style="text-align:center">O Cristo Redentor</h2>
+	
 		Cristo Redentor é uma estátua art déco que retrata Jesus Cristo, localizada no topo do morro do Corcovado, a 709 metros acima do nível do mar, no Parque Nacional da Tijuca, com vista para a maior parte da cidade do Rio de Janeiro, Brasil. Em 2007 foi eleito informalmente como uma das sete maravilhas do mundo moderno.
 	</p>
-	<p>
     </body>
     </html>
